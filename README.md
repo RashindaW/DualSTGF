@@ -1,4 +1,4 @@
-# DualSTAGE: Dual-View Spectral-Temporal Graph Attention for Enhanced Fault Detection
+# DualSTGF: Dual-View Spectral-Temporal Graph Fusion
 
 <p align="center">
   <img src="Architecture.png" alt="DualSTAGE Architecture" width="800"/>
